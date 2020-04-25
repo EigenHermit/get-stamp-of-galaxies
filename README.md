@@ -6,7 +6,7 @@
   > make imcopy
   
   ### 2. The catalogue must be prepared  
-  The catalogue need to contain, at least, the coordinate of source and the name of FITS imaeg.  
+  The catalogue need to contain, at least, the coordinates of sources and the name of FITS images.  
   We already have a demo catalogue for the user, stored at root directory of our project.  
   
   ### 3. The FITS image must be prepared.  
