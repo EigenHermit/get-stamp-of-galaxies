@@ -10,4 +10,4 @@ The following are needed before using the program.
   
   3.The FITS image must be prepared.
   For example, KiDS DR3 image can be downloaded from:
-  
+  http://kids.strw.leidenuniv.nl/DR3/access.php
