@@ -5,9 +5,9 @@
   If not, you could try:
   > apt-get install libcfitsio-bin
   
-  *2 The catalogue must be prepared
+  +2 The catalogue must be prepared
   The catalogue need to contains the coordinate of source.
   
-  *3 The FITS image must be prepared.
+  -3 The FITS image must be prepared.
   For example, KiDS DR3 image can be downloaded from:
   http://kids.strw.leidenuniv.nl/DR3/access.php
