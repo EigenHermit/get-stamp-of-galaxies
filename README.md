@@ -2,7 +2,7 @@
 ## This program enables you to get the stamp of galaxies from a large FITS. The following are needed before using the program.
   ### 1. CFITSIO must be installed properly
   If not, you could try:  
-  > apt-get install libcfitsio-bin
+  > apt-get install libcfitsio-bin  
   > make imcopy
   
   ### 2. The catalogue must be prepared  
@@ -17,8 +17,10 @@
   The FITS image need to be stored at the dir 'demo_fits_image'.
   It could download at:  
   http://ds.astro.rug.astro-wise.org:8000/KiDS_DR3.0_333.9_-33.1_r_sci.fits  
-  or using a Microsoft drive:
-  https://1drv.ms/u/s!AvT9eLWRhVvkthMeo63T9wBZTx1v?e=oRMwt8
+  or using a Microsoft drive:  
+  https://1drv.ms/u/s!AvT9eLWRhVvkthMeo63T9wBZTx1v?e=oRMwt8  
+  
+  
   
   
   
