@@ -1,0 +1,2 @@
+﻿,name,ra,dec,flux,x_position,y_position,radius,class_star,img_name,phot_z,mag_r,mag_u,mag_g,cat_name,mag_i,xpos_u,xpos_g,xpos_i,ypos_u,ypos_g,ypos_i
+70,KIDS J221339.02-331156.34,333.4125681,-33.19898379,7.97778E-08,16147.14551,8857.321289,13.67514706,0.028652906,KiDS_DR3.0_333.9_-33.1_r_sci.fits,0.25,16.96277428,20.16762543,18.37889671,KiDS_DR3.0_333.9_-33.1_ugri_src,16.57783508,16313.14551,16205.14551,16119.14551,8374.321289,8877.321289,8852.321289
