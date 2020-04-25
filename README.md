@@ -5,7 +5,7 @@
   > apt-get install libcfitsio-bin
   
   ### 2. The catalogue must be prepared  
-  The catalogue need to contains the coordinate of source.  
+  The catalogue need to contain the coordinate of source.  
   
   ### 3. The FITS image must be prepared.  
   For example, KiDS DR3 image can be downloaded from:  
