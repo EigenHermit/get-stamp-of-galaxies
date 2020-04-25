@@ -3,7 +3,7 @@
 ## The following are needed before using the program.
   1. CFITSIO must be installed properly
   If not, you could try:
-  apt-get install libcfitsio-bin
+  > apt-get install libcfitsio-bin
   
   2. The catalogue must be prepared
   The catalogue need to contains the coordinate of source.
