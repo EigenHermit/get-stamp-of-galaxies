@@ -1,6 +1,6 @@
 # get-stamp-of-galaxies
-This program enables you to get the stamp of galaxies from a large FITS. 
-The following are needed before using the program.
+## This program enables you to get the stamp of galaxies from a large FITS. 
+## The following are needed before using the program.
   1.CFITSIO must be installed properly
   If not, you could try:
   apt-get install libcfitsio-bin
