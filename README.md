@@ -8,6 +8,8 @@
   ### 2. The catalogue must be prepared  
   The catalogue need to contain, at least, the coordinates of sources and the name of FITS images.  
   We already have a demo catalogue for the user, stored at root directory of our project.  
+     
+  Furthermore, a lens catalogue of Petrillo+17 has been provided.   
   
   ### 3. The FITS image must be prepared.  
   For example, KiDS DR3 image can be downloaded from:  
